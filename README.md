@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Roce prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-prohibido/) |
+| **Get License** | [Get License For Roce prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f857c880d9e3fa02f1d825dcf23a4eb67d6cec99284ed491923d6538519b0f0b` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

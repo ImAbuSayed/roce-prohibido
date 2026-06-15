@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce prohibido
+
+This log tracks the cryptographic history and versioning for the song **Roce prohibido** (roce-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:22:13.308843 | `v1` | `f857c880d9e3fa02f1d825dcf23a4eb67d6cec99284ed491923d6538519b0f0b` | `682b273cb46d60988c26d0be9e124dea2af6eb7d82ae3fe35c825eba7c19cd04` | `2026-06-15_roce-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
