@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Roce prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-prohibido/) |
+| **Get License** | [Get a Licensing Quote for Roce prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miraste y yo supe que esto era letal
+> Una noche en Madrid y un deseo animal
+> Ese roce prohibido que me quema la piel
+> Nena, vamos a saltarnos las reglas de él
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
